@@ -67,7 +67,7 @@ list visually appealing.
 You can use CSS frameworks like Bootstrap
 or Tailwind CSS to help with the styling.
 
-Step 10:
+Step 9:
 
 Test your application by fetching and
 displaying repositories from the GitHub API.
@@ -76,14 +76,14 @@ correctly and any additional information
 you want to display, such as repository name,
 description, or stars, is included.
 
-Step 11:
+Step 10:
 
 Add error handling to the fetchRepositories
 function to handle any API request errors.
 Display an error message or a fallback UI
 when an error occurs during the API request.
 
-Step 12:
+Step 11:
 
 Optionally, add pagination functionality
 to the repository list to fetch and display
